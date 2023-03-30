@@ -1,0 +1,12 @@
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\bin\Debug\Find_A_Pair.exe.config
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\bin\Debug\Find_A_Pair.exe
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\bin\Debug\Find_A_Pair.pdb
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.csproj.AssemblyReference.cache
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.Form1.resources
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.Properties.Resources.resources
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.csproj.GenerateResource.cache
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.csproj.CoreCompileInputs.cache
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.exe
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.pdb
+C:\Users\chiki\source\repos\Find_A_Pair\Find_A_Pair\obj\Debug\Find_A_Pair.Login.resources
